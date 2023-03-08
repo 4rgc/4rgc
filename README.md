@@ -1,14 +1,6 @@
-# Hey! 👋 I'm Andrii [ɐnˈdʲrʲii̯]
-<audio>
-  <source src="/4rgc/4rgc/raw/main/assets/pronunciation.mp3" type="audio/mpeg"></audio>
-<!-- <div style="display: flex; align-items: center; justify-content: space-between; width: 120px">
-<a href="https://linkedin.com/in/andrii-bohdan"><img alt="linkedin" src="assets/linkedin.svg"/></a>
-<a href="https://www.instagram.com/andrew.bohdan/"><img alt="instagram" src="assets/instagram.svg"/></a>
-<a href="mailto:bohdan.andrii@gmail.com"><img alt="gmail" src="assets/gmail.svg" /></a>
-</div> -->
+# Hey! 👋 I'm Andrii [[ɐnˈdʲrʲii̯](https://drive.google.com/file/d/1yJ6bCXsHxEprSOKGQ4erl7TbeGFQb8EU/view)]
 
-| ![https://linkedin.com/in/andrii-bohdan](assets/linkedin.svg) |![https://www.instagram.com/andrew.bohdan/](assets/instagram.svg)   |![mailto:bohdan.andrii@gmail.com](assets/gmail.svg)|
-|---|---|---|
+![https://linkedin.com/in/andrii-bohdan](assets/linkedin.svg) ![https://www.instagram.com/andrew.bohdan/](assets/instagram.svg)   ![mailto:bohdan.andrii@gmail.com](assets/gmail.svg)
 
 ## 🙋‍♂️ About me
 
