@@ -1,8 +1,8 @@
 # Hey! 👋 I'm Andrii [ɐnˈdʲrʲii̯]
 <div style="display: flex; align-items: center; justify-content: space-between; width: 120px">
-<a href="https://linkedin.com/in/andrii-bohdan"><img align="left" alt="linkedin" src="assets/linkedin.svg" height="25px"/></a>
-<a href="https://www.instagram.com/andrew.bohdan/"><img align="left" alt="instagram" src="assets/instagram.svg" height="38px" /></a>
-<a href="mailto:bohdan.andrii@gmail.com"><img align="left" alt="gmail" src="assets/gmail.svg" height="35px" /></a>
+<a href="https://linkedin.com/in/andrii-bohdan"><img alt="linkedin" src="assets/linkedin.svg"/></a>
+<a href="https://www.instagram.com/andrew.bohdan/"><img alt="instagram" src="assets/instagram.svg"/></a>
+<a href="mailto:bohdan.andrii@gmail.com"><img alt="gmail" src="assets/gmail.svg" /></a>
 </div>
 
 ## 🙋‍♂️ About me
