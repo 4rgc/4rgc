@@ -1,6 +1,6 @@
 # Hey! 👋 I'm Andrii [[ɐnˈdʲrʲii̯](https://drive.google.com/file/d/1yJ6bCXsHxEprSOKGQ4erl7TbeGFQb8EU/view)]
 
-![https://linkedin.com/in/andrii-bohdan](assets/linkedin.svg) ![https://www.instagram.com/andrew.bohdan/](assets/instagram.svg)   ![mailto:bohdan.andrii@gmail.com](assets/gmail.svg)
+[![linkedin](assets/linkedin.svg)](https://linkedin.com/in/andrii-bohdan) [![instagram](assets/instagram.svg)](https://www.instagram.com/andrew.bohdan/) [![mail](assets/gmail.svg)](mailto:bohdan.andrii@gmail.com)
 
 ## 🙋‍♂️ About me
 
