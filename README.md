@@ -4,6 +4,7 @@
 
 ## 🙋‍♂️ About me
 
+- I'm a Ukrainian living in Toronto, Canada 🇺🇦
 - Love learning new tech, and expanding my horizons 🌅
 - Try to solidify everything I learn by practically applying it in projects 👨‍🔬
 - 4th year Comp Sci student @ York University 🎓
