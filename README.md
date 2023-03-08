@@ -9,7 +9,7 @@
 - 4th year Comp Sci student @ York University 🎓
 - Part-time Software Engineer @ Autodesk ShotGrid 💻
 - On the side working on a full stack project management web app – Trellzo ([check it out!](https://trellzo.tech)) 🗂️
-- Check out my [resume](assets/resume.pdf) 📃
+- Check out my [resume](https://raw.githubusercontent.com/4rgc/4rgc/main/assets/resume.pdf) 📃
 
 ## 📊 Github Stats
 [  
