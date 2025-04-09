@@ -9,7 +9,7 @@
 - Try to solidify everything I learn by practically applying it in projects 👨‍🔬
 - Recently graduated as a BSc in Comp Sci @ York University 🎓
 - Senior Full Stack Engineer @ Autodesk Flow 💻
-- On the side working on a full stack project management web app – Trellzo ([check it out!](https://trellzo.tech)) 🗂️
+- On the side working on a full stack project management web app – Trellzo ([check it out!](https://trellzo.space)) 🗂️
 - Check out my [resume](https://raw.githubusercontent.com/4rgc/4rgc/main/assets/resume.pdf) 📃
 
 ## 📊 Github Stats
