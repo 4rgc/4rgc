@@ -5,11 +5,12 @@
 ## 🙋‍♂️ About me
 
 - I'm a Ukrainian living in Toronto, Canada 🇺🇦
-- Love learning new tech, and expanding my horizons 🌅
+- I fluently speak Ukrainian, English and Japanese 🇺🇦 🇨🇦 🇯🇵
+- Love traveling, learning new tech, and expanding my horizons 🌅
 - Try to solidify everything I learn by practically applying it in projects 👨‍🔬
-- Recently graduated as a BSc in Comp Sci @ York University 🎓
-- Senior Full Stack Engineer @ Autodesk Flow 💻
-- On the side working on a full stack project management web app – Trellzo ([check it out!](https://trellzo.space)) 🗂️
+- Graduated with a BSc in Comp Sci @ York University 🎓
+- Senior Full Stack Engineer @ Autodesk, Flow Platform 💻
+- Rocking a [Corne Chocolate v4.1](https://github.com/foostan/crkbd) mostly on Mac and Arch Linux (btw)
 - Check out my [resume](https://raw.githubusercontent.com/4rgc/4rgc/main/assets/resume.pdf) 📃
 
 ## 📊 Github Stats
